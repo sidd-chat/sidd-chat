@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidd-chat
-- 👀 I’m interested in Machine Learning, Android App Development and other things alike
-- 🌱 I’m currently learning  Android App Development
+- 👀 I’m interested in Web Development, Machine Learning and other things alike
+- 🌱 I’m currently learning MERN Stack
 - 📫 Reach me at sidd2105@gmail.com
 
 <!---
